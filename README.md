@@ -1,2 +1,2 @@
-# proyectoJS
-none atm
+# mangastore
+Virtual manga store.
